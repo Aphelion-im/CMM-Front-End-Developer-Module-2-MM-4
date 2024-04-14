@@ -8,4 +8,4 @@ __Opdrachtomschrijving__
 [Live demo opdracht MM-4](https://cmm-front-end-developer-module-2-mm-4.netlify.app)
 
 ## Screenshot Project MM-4
-![Screenshot project mm-4](./assets/jurassic-park-isla-nublar.jpg)
+![Screenshot project mm-4 (Jurassic Park)](./assets/jurassic-park-isla-nublar.jpg)
