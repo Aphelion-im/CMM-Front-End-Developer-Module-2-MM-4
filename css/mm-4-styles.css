@@ -28,9 +28,8 @@ html {
   font-size: 100%;
   scroll-behavior: smooth;
   font-family: 'Yanone Kaffeesatz', Verdana, sans-serif;
-  height: 100vh;
-  width: 100vw;
-  /* overflow: hidden; */
+  min-height: 100vh;
+  width: 100%;
 }
 
 body {
